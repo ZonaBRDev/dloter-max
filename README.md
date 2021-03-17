@@ -27,7 +27,7 @@ Ainda não foi 100% disponível, como segue em fases de testes ainda não tem um
 
 _demonstração do launcher_
 
-##Em breve, lançamento oficial.
+## Em breve, lançamento oficial.
 
 
 
