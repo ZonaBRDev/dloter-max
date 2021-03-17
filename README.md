@@ -19,9 +19,12 @@ Ainda não foi 100% disponível, como segue em fases de testes ainda não tem um
 
 ## Como funciona?
 
--> **_Você abre lan usando seu IP, porém por recomendações de seguranças você terá que usar um domínio para ocultar seu IP_**
+- > **_Você abre lan usando seu IP, porém por recomendações de seguranças você terá que usar um domínio para ocultar seu IP_**
 
-**ISSO É UMA RECOMENDAÇÃO DE URGÊNCIA !** - Se você ignora, não nós responsabilizaremos por DANOS causados.
+## **ISSO É UMA RECOMENDAÇÃO DE URGÊNCIA !** - Se você ignora, não nós responsabilizaremos por DANOS causados.
+
+- > **VIDEO EXPLICANDO COMO FAZER ISSO. CLIQUE** **[AQUI](https://www.youtube.com/watch?v=SakT_20Kr-I)**
+
 
 ![appses](https://github.com/ZonaBRDev/dloter-max/blob/main/dloter546541865.PNG)
 
