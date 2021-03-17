@@ -6,7 +6,7 @@
 > Criado por ZonaBRDev (Eu)
 
 # Funcionalidades
-![app](https://github.com/ZonaBRDev/dloter-max/blob/main/dloter-assets9899656500.PNG)
+![app](https://github.com/ZonaBRDev/dloter-max/blob/main/prints/dloter-assets9899656500.PNG)
 
 **Com está integração leve, você pode abrir seu servidor sem precisar de host.**
 Em breve se está integração vier bem, estarei disponibilizando uma forma de você adicionar na [Replit.com](replit.com) ou outras hosts gratuitas
@@ -26,7 +26,7 @@ Ainda não foi 100% disponível, como segue em fases de testes ainda não tem um
 - > **VIDEO EXPLICANDO COMO FAZER ISSO. CLIQUE** **[AQUI](https://www.youtube.com/watch?v=SakT_20Kr-I)**
 
 
-![appses](https://github.com/ZonaBRDev/dloter-max/blob/main/dloter546541865.PNG)
+![appses](https://github.com/ZonaBRDev/dloter-max/blob/main/prints/dloter546541865.PNG)
 
 _demonstração do launcher_
 
