@@ -5,6 +5,7 @@
 
 > Criado por ZonaBRDev (Eu)
 
+
 # Funcionalidades
 ![app](https://github.com/ZonaBRDev/dloter-max/blob/main/prints/dloter-assets9899656500.PNG)
 
