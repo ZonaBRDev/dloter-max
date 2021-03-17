@@ -6,3 +6,4 @@ event=inital("W:/dloter.jar")
 event=inital("W:/dloter.bat")
 event=inital("W:/recover.bat")
 
+// Arquivos estão corrompidos, não estão apto a uso.
